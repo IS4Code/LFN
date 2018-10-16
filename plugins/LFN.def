@@ -1,0 +1,8 @@
+LIBRARY	"LFN"
+
+EXPORTS
+	Supports
+	Load
+	Unload
+	AmxLoad
+	AmxUnload

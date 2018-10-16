@@ -1,0 +1,17 @@
+{
+    "user": "IllidanS4",
+    "repo": "LFN",
+    "dependencies": ["sampctl/pawn-stdlib"],
+    "resources": [
+        {
+            "name": "LFN.dll",
+            "platform": "windows",
+            "archive": false
+        },
+        {
+            "name": "LFN.so",
+            "platform": "linux",
+            "archive": false
+        }
+    ]
+}
